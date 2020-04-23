@@ -1,0 +1,164 @@
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/appsettings.Development.json
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/appsettings.json
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.exe
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.csprojAssemblyReference.cache
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.AssemblyInfoInputs.cache
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.AssemblyInfo.cs
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.RazorTargetAssemblyInfo.cache
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/staticwebassets/Tutorial3.StaticWebAssets.Manifest.cache
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/staticwebassets/Tutorial3.StaticWebAssets.xml
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.deps.json
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.runtimeconfig.json
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.runtimeconfig.dev.json
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.dll
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.pdb
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.csproj.CoreCompileInputs.cache
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.MvcApplicationPartsAssemblyInfo.cache
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.csproj.CopyComplete
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.dll
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.pdb
+E:/PJATK work/APBD/Tutorial 4/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.genruntimeconfig.cache
+/Users/bodzinho327/Desktop/Tutorial4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/bodzinho327/Desktop/Tutorial4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/bodzinho327/Desktop/Tutorial4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/bodzinho327/Desktop/Tutorial4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.deps.json
+/Users/bodzinho327/Desktop/Tutorial4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.runtimeconfig.json
+/Users/bodzinho327/Desktop/Tutorial4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.runtimeconfig.dev.json
+/Users/bodzinho327/Desktop/Tutorial4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.dll
+/Users/bodzinho327/Desktop/Tutorial4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.pdb
+/Users/bodzinho327/Desktop/Tutorial4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/Users/bodzinho327/Desktop/Tutorial4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/bodzinho327/Desktop/Tutorial4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/bodzinho327/Desktop/Tutorial4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/bodzinho327/Desktop/Tutorial4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/bodzinho327/Desktop/Tutorial4/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/bodzinho327/Desktop/Tutorial4/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.csprojAssemblyReference.cache
+/Users/bodzinho327/Desktop/Tutorial4/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.MvcApplicationPartsAssemblyInfo.cache
+/Users/bodzinho327/Desktop/Tutorial4/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.AssemblyInfoInputs.cache
+/Users/bodzinho327/Desktop/Tutorial4/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.AssemblyInfo.cs
+/Users/bodzinho327/Desktop/Tutorial4/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.RazorTargetAssemblyInfo.cache
+/Users/bodzinho327/Desktop/Tutorial4/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.csproj.CopyComplete
+/Users/bodzinho327/Desktop/Tutorial4/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/staticwebassets/Tutorial3.StaticWebAssets.Manifest.cache
+/Users/bodzinho327/Desktop/Tutorial4/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/staticwebassets/Tutorial3.StaticWebAssets.xml
+/Users/bodzinho327/Desktop/Tutorial4/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.dll
+/Users/bodzinho327/Desktop/Tutorial4/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.pdb
+/Users/bodzinho327/Documents/task4/Project/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/bodzinho327/Documents/task4/Project/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/bodzinho327/Documents/task4/Project/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/bodzinho327/Documents/task4/Project/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.deps.json
+/Users/bodzinho327/Documents/task4/Project/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.runtimeconfig.json
+/Users/bodzinho327/Documents/task4/Project/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.runtimeconfig.dev.json
+/Users/bodzinho327/Documents/task4/Project/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.dll
+/Users/bodzinho327/Documents/task4/Project/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.pdb
+/Users/bodzinho327/Documents/task4/Project/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/Users/bodzinho327/Documents/task4/Project/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/bodzinho327/Documents/task4/Project/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/bodzinho327/Documents/task4/Project/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/bodzinho327/Documents/task4/Project/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/bodzinho327/Documents/task4/Project/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/bodzinho327/Documents/task4/Project/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.csprojAssemblyReference.cache
+/Users/bodzinho327/Documents/task4/Project/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.MvcApplicationPartsAssemblyInfo.cache
+/Users/bodzinho327/Documents/task4/Project/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.AssemblyInfoInputs.cache
+/Users/bodzinho327/Documents/task4/Project/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.AssemblyInfo.cs
+/Users/bodzinho327/Documents/task4/Project/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.RazorTargetAssemblyInfo.cache
+/Users/bodzinho327/Documents/task4/Project/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.csproj.CopyComplete
+/Users/bodzinho327/Documents/task4/Project/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/staticwebassets/Tutorial3.StaticWebAssets.Manifest.cache
+/Users/bodzinho327/Documents/task4/Project/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/staticwebassets/Tutorial3.StaticWebAssets.xml
+/Users/bodzinho327/Documents/task4/Project/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.dll
+/Users/bodzinho327/Documents/task4/Project/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.pdb
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.deps.json
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.runtimeconfig.json
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.runtimeconfig.dev.json
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.pdb
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.csprojAssemblyReference.cache
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.MvcApplicationPartsAssemblyInfo.cache
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.AssemblyInfoInputs.cache
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.AssemblyInfo.cs
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.RazorTargetAssemblyInfo.cache
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.csproj.CopyComplete
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/staticwebassets/Tutorial3.StaticWebAssets.Manifest.cache
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/staticwebassets/Tutorial3.StaticWebAssets.xml
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.pdb
+/Users/bodzinho327/task5/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/bodzinho327/task5/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/bodzinho327/task5/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/bodzinho327/task5/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.deps.json
+/Users/bodzinho327/task5/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.runtimeconfig.json
+/Users/bodzinho327/task5/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.runtimeconfig.dev.json
+/Users/bodzinho327/task5/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.dll
+/Users/bodzinho327/task5/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.pdb
+/Users/bodzinho327/task5/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/Users/bodzinho327/task5/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/bodzinho327/task5/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/bodzinho327/task5/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/bodzinho327/task5/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/bodzinho327/task5/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/bodzinho327/task5/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.csprojAssemblyReference.cache
+/Users/bodzinho327/task5/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.MvcApplicationPartsAssemblyInfo.cache
+/Users/bodzinho327/task5/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.AssemblyInfoInputs.cache
+/Users/bodzinho327/task5/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.AssemblyInfo.cs
+/Users/bodzinho327/task5/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.RazorTargetAssemblyInfo.cache
+/Users/bodzinho327/task5/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.csproj.CopyComplete
+/Users/bodzinho327/task5/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/staticwebassets/Tutorial3.StaticWebAssets.Manifest.cache
+/Users/bodzinho327/task5/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/staticwebassets/Tutorial3.StaticWebAssets.xml
+/Users/bodzinho327/task5/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.dll
+/Users/bodzinho327/task5/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.pdb
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.deps.json
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.runtimeconfig.json
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.runtimeconfig.dev.json
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Tutorial3.pdb
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.csprojAssemblyReference.cache
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.MvcApplicationPartsAssemblyInfo.cache
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.AssemblyInfoInputs.cache
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.AssemblyInfo.cs
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.RazorTargetAssemblyInfo.cache
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.csproj.CopyComplete
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/staticwebassets/Tutorial3.StaticWebAssets.Manifest.cache
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/staticwebassets/Tutorial3.StaticWebAssets.xml
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/Tutorial3/obj/Debug/netcoreapp3.1/Tutorial3.pdb
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/bodzinho327/Desktop/Tutorial3/Tutorial3/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll

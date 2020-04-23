@@ -1,0 +1,90 @@
+1. HTTP Method (POST)
+2. Endpoint Path (/api/enrollments/enroll)
+3. Body of each request ({
+    "idStudent": "228",
+    "firstName": "Oksana",
+    "lastName": "Anigilator",
+    "birthDate": "10-10-2010",
+    "studies": "InformationTechnologies"
+})
+4. Query strings ("Empty")
+
+
+1. HTTP Method (GET)
+2. Endpoint Path (/weatherforecast)
+3. Body of each request ()
+4. Query strings ("Empty")
+
+
+1. HTTP Method (GET)
+2. Endpoint Path (/favicon.ico)
+3. Body of each request ()
+4. Query strings ("Empty")
+
+
+1. HTTP Method (POST)
+2. Endpoint Path (/api/enrollments/enroll)
+3. Body of each request ({
+    "idStudent": "229",
+    "firstName": "Oksana",
+    "lastName": "Anigilator",
+    "birthDate": "10-10-2010",
+    "studies": "InformationTechnologies"
+})
+4. Query strings ("Empty")
+
+
+1. HTTP Method (POST)
+2. Endpoint Path (/api/enrollments/enroll)
+3. Body of each request ({
+    "idStudent": "300",
+    "firstName": "Oksana",
+    "lastName": "Anigilator",
+    "birthDate": "10-10-2010",
+    "studies": "InformationTechnologies"
+})
+4. Query strings ("Empty")
+
+
+1. HTTP Method (GET)
+2. Endpoint Path (/api/students)
+3. Body of each request (ё)
+4. Query strings ("Empty")
+
+
+1. HTTP Method (GET)
+2. Endpoint Path (/weatherforecast)
+3. Body of each request ()
+4. Query strings ("Empty")
+
+
+1. HTTP Method (GET)
+2. Endpoint Path (/favicon.ico)
+3. Body of each request ()
+4. Query strings ("Empty")
+
+
+1. HTTP Method (GET)
+2. Endpoint Path (/weatherforecast)
+3. Body of each request ()
+4. Query strings ("Empty")
+
+
+1. HTTP Method (GET)
+2. Endpoint Path (/favicon.ico)
+3. Body of each request ()
+4. Query strings ("Empty")
+
+
+1. HTTP Method (GET)
+2. Endpoint Path (/weatherforecast)
+3. Body of each request ()
+4. Query strings ("Empty")
+
+
+1. HTTP Method (GET)
+2. Endpoint Path (/favicon.ico)
+3. Body of each request ()
+4. Query strings ("Empty")
+
+
